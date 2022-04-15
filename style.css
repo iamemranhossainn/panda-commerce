@@ -38,3 +38,23 @@
 .categories img{
     width: 100px;
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#Backpack{
+    margin-top: 100px;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+#contact-us{
+    height: 300px;
+}
+#contact-us h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
